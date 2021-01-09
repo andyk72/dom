@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+#content {
+  background: #77c2f3;
+  padding: 20px;
+}
+
+#log {
+  background: #71dd76;
+  padding: 20px;
+}
+
+[class$="-title"] {
+  margin-bottom: 10px;
+  padding: 5px 5px 5px 2px;
+  text-align: center;
+  color: white;
+  background: #222;
+}
